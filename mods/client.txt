@@ -1,1 +1,26 @@
-vamos colocar os mods de client aqui
+🖥️ Mods do CLIENTE (recomendações para jogadores)
+Qualidade de vida
+
+JEI – mostra receitas e usos
+🔗 CurseForge (procure JEI 1.20.1)
+
+Xaero’s Minimap
+🔗 Modrinth / CurseForge (procure Xaero’s Minimap 1.20.1) 
+Modrinth
+
+Xaero’s World Map
+🔗 Mesma busca de mapa no CurseForge/Modrinth 
+Modrinth
+
+Carry On – permite levar blocos/mobs nas mãos
+🔗 CurseForge / Modrinth (procure Carry On 1.20.1)
+
+AppleSkin – mostra quanta fome resta
+🔗 CurseForge (procure AppleSkin Forge 1.20.1) 
+Modrinth
+
+Opcional — performance no client
+
+Entity Culling – melhora FPS escondendo entidades fora da visão
+🔗 Modrinth / CurseForge (procure Entity Culling 1.20.1) 
+CurseForge
