@@ -1,203 +1,186 @@
-📜 Documento Base — Servidor Minecraft (Verão)
-Visão Geral
+# 🌞 Servidor Minecraft
 
-Servidor Semi-RP, focado em:
+Servidor **Semi-RP**, focado em **aventura, reinos, política e narrativa**. A proposta é oferecer um mundo vivo, com progressão controlada, economia funcional e eventos constantes — tudo isso rodando bem até em PCs mais fracos.
 
-Reinos e política
+RP **não é obrigatório**. Interagir é.
 
-PVE forte
+---
 
-Economia controlada
+## 🎯 Objetivos do Servidor
 
-Narrativa progressiva via quests manuais
+* Criar um ambiente de **cooperação, diplomacia e conflitos organizados**
+* Evitar grind excessivo
+* Manter performance alta
+* Segurar players com **narrativa progressiva via quests**
 
-Mods leves (PC fraco roda)
+---
 
-RP não obrigatório. Interação é o objetivo.
+## ⚙️ Stack Técnica
 
-⚙️ Stack Técnica
+* **Minecraft:** 1.20.1
+* **Loader:** Forge
+* **Java:** 17
+* **Perfil:** Vanilla+ / RPG leve
 
-Minecraft: 1.20.1
+---
 
-Loader: Forge
+## 🌍 Mundo
 
-Java: 17
+### Worldgen
 
-Perfil: Vanilla+ / RPG leve
+* **Terralith** (datapack leve)
+* **YUNG’s Better Dungeons** (selecionados)
 
-🌍 Geração de Mundo
+Mapa variado, bonito e otimizado. Nada de worldgen pesado.
 
-Leve e bonita:
+---
 
-Terralith (datapack)
+## 🏰 Reinos e Política
 
-YUNG’s Better Dungeons (selecionados)
+* **FTB Teams** — criação de reinos/clãs
+* **FTB Chunks** — claims e proteção de território
 
-Sem worldgen pesado, sem lag.
+### Regras básicas
 
-🏰 Reinos e Política
+* Claims obrigatórios
+* PVP livre apenas em:
 
-FTB Teams — clãs/reinos
+  * guerras declaradas
+  * arenas
+* Guerras acontecem apenas em **janelas oficiais**
+* Grief fora de guerra é proibido
 
-FTB Chunks — claims e proteção
+---
 
-Regras base
+## ⚔️ Combate e Progressão
 
-Claims obrigatórios
+### Combate
 
-Guerra só em janelas oficiais
+* Better Combat
+* Epic Knights *ou* Spartan Weaponry
+* Champions
+* Bosses of Mass Destruction
 
-Nada de grief fora de guerra
+### Skill Tree
 
-Limite inicial de membros por reino
+* **Passive Skill Tree**
 
-⚔️ Combate e Progressão
-Combate
+  * Progressão leve
+  * Bônus passivos
+  * Sem impacto relevante de performance
 
-Better Combat
+---
 
-Epic Knights ou Spartan Weaponry
+## 💰 Economia
 
-Champions
+### Moeda
 
-Bosses of Mass Destruction
+* **Lightman’s Currency**
+* Moeda única do servidor
 
-Skill Tree (leve)
+### NPCs
 
-Passive Skill Tree
+NPCs são **estáticos e funcionais**, sem IA pesada:
 
-Bônus passivos
+* Banqueiro
+* Mercador básico
+* Quest Giver
 
-Progressão lenta
+Itens raros não são vendidos por NPCs — apenas obtidos via quests, dungeons, bosses ou eventos.
 
-Sem impacto de performance
+---
 
-💰 Economia
-Moeda
+## 📖 Sistema de Quests
 
-Lightman’s Currency
+* **FTB Quests**
 
-Moeda única do servidor
+### Filosofia
 
-NPCs
+* Quests **manuais**, criadas pelos admins
+* Narrativa controlada
+* Capítulos liberados por:
 
-NPCs estáticos
+  * dia
+  * evento
+  * progresso global do servidor
 
-Funções claras:
+### Tipos de quests
 
-Banqueiro
+* Exploração
+* Dungeons
+* Bosses
+* Economia
+* Diplomacia
+* Guerras
 
-Mercador básico
+---
 
-Quest giver
+## 🗓️ Progressão Narrativa (Exemplo)
 
-Itens raros não vendidos por NPC
+**Semana 1**
 
-📖 Sistema de Quests (Narrativa Manual)
-Base
+* Exploração inicial
+* Formação de reinos
 
-FTB Quests
+**Semana 2**
 
-Modelo
+* Dungeons
+* Economia liberada
 
-Quests criadas manualmente
+**Semana 3**
 
-Capítulos liberados por:
+* Bosses
+* Alianças e conflitos
 
-dia
+**Semana 4**
 
-evento
+* Guerras oficiais
+* Eventos PvE em larga escala
 
-decisão dos admins
+---
 
-Tipos de quests
+## 🧭 Qualidade de Vida
 
-Exploração
+* JEI
+* Waystones (limitados)
+* Xaero’s Minimap + World Map
+* Carry On
+* AppleSkin
 
-Dungeon
+---
 
-Boss
+## 🚀 Performance
 
-Diplomacia
+Mods obrigatórios:
 
-Guerra
+* FerriteCore
+* ModernFix
+* Starlight (Forge)
+* Clumps
+* Entity Culling (client-side)
 
-Economia
+### Configurações
 
-Recompensas
+* View Distance: 8
+* Simulation Distance: 6
 
-Moeda
+---
 
-Itens exclusivos
+## 👑 Administração
 
-Acesso a áreas/eventos
+* **Admins:** Doni, Arthur
+* **Moderadores:** definidos internamente
+* Narrativa, guerras e eventos são controlados pela staff
 
-Buffs temporários
+---
 
-🗓️ Estrutura Narrativa (exemplo)
+## 📌 Filosofia Final
 
-Semana 1
+* Performance > estética exagerada
+* Conteúdo > grind
+* Narrativa > aleatoriedade
+* Comunidade > meta
 
-Exploração do mundo
+---
 
-Formação de reinos
-
-Semana 2
-
-Primeiras dungeons
-
-Economia liberada
-
-Semana 3
-
-Bosses
-
-Alianças e traições
-
-Semana 4
-
-Guerras oficiais
-
-Eventos PvE massivos
-
-🧭 Qualidade de Vida
-
-JEI
-
-Waystones (limitados)
-
-Xaero’s Minimap + World Map
-
-Carry On
-
-AppleSkin
-
-🚀 Performance (obrigatório)
-
-FerriteCore
-
-ModernFix
-
-Starlight (Forge)
-
-Clumps
-
-Entity Culling (client)
-
-Configs
-
-View distance: 8
-
-Simulation distance: 6
-
-🧩 Filosofia do Servidor
-
-Conteúdo > grind
-
-Progressão lenta
-
-Economia controlada
-
-Narrativa conduz o jogo
-
-Performance vem primeiro
+Bem-vindo ao servidor. Escolha seu reino.
